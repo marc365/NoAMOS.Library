@@ -1,0 +1,27 @@
+BbEcOff
+BbInit
+RbInit
+RbEnd
+BbEnd
+BobSet
+BobOff
+BobSOff
+BobAct
+BobAff
+BobEff
+BobLim
+SpotH
+BbColl
+GetCol
+SpColl
+BobXY
+BobPut
+TPatch
+HColSet
+HColGet
+TPrio
+GetBob
+Masque
+BobCalc
+Retourne
+   rts

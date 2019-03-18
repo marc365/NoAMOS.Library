@@ -1,0 +1,3 @@
+IceEnd
+    bsr WMemEnd
+   rts

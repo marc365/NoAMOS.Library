@@ -1,0 +1,21 @@
+MChange
+MXy
+CXyHard
+CXyScr
+MBout
+MSetAb
+GetSIn
+CXyWi
+MLimA
+MStore
+MRecall
+MRout
+MLimEc
+WMouScrFront
+WSend_FakeEvent
+MousInt
+MHide
+MShow
+Fake_Code
+   moveq #0,d0
+   rts
